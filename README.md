@@ -1,0 +1,2 @@
+# buddy.github.io
+Buddy
